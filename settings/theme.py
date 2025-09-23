@@ -1,7 +1,7 @@
 from os import path
 
 # --- Paths ---
-qtile_path = path.join(path.expanduse('~'), ".config", "qtile", "my-qtile")
+qtile_path = path.join(path.expanduse('~'), ".config", "qtile")
 
 # --- Fonts ---
 font = "Hack Nerd Font Mono"
